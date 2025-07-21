@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salah
+# 👋 Hi, I'm Awwsalah
 
 I'm a passionate **Full-Stack Developer** and creative **Motion Graphic Designer & Illustrator**.
 
