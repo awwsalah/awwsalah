@@ -1,6 +1,4 @@
-Here you go—clean README.md, Arabic section removed:
 
-```md
 <!-- Profile README for @awwsalah -->
 
 <p align="center">
@@ -121,6 +119,4 @@ When code sleeps, After Effects wakes up. I animate, illustrate, and make pixels
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3a8a,100:0f172a" alt="footer"/>
 </p>
-```
 
-Need a lighter/darker variant or separate “no jokes” version? Just say so.
