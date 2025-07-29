@@ -43,15 +43,16 @@
 
 ---
 
+
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awwsalah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwsalah&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awwsalah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=d0d7de&icon_color=1f6feb" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwsalah&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=d0d7de" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=awwsalah&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=ffffff" height="150" />
+  <img src="https://streak-stats.demolab.com?user=awwsalah&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&text=D0D7DE" height="150" />
 </p>
 
 <!-- Light mode alternatives: uncomment if you switch themes -->
