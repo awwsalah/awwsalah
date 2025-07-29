@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=awwsalah&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" height="150" />
+  <img src="https://streak-stats.demolab.com?user=awwsalah&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=ffffff" height="150" />
 </p>
 
 <!-- Light mode alternatives: uncomment if you switch themes -->
