@@ -36,25 +36,14 @@
 ### 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awwsalah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=d0d7de&icon_color=1f6feb" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awwsalah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=d0d7de&icon_color=1f6feb&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwsalah&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=d0d7de" height="150" />
 </p>
 
----
-
-### 🚀 Selected Projects
-
-**University Management System – Alpha University**  
-Multi-module: students, payments, courses, reporting. *(Laravel + Livewire)*
-
-**Real Estate App – Dhulib**  
-Listings, chat, admin analytics. *(Flutter + Laravel API + Firebase)*
-
-**Clinic App**  
-Appointments, patient records, prescriptions. *(Flutter + Laravel)*
-
-**Call Center Complaint Management – Ministry of Agriculture**  
-Ticketing, SLAs, exportable reports. *(Laravel + MySQL)*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awwsalah&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />  
+  <img src="https://img.shields.io/github/repos/awwsalah?style=flat&color=1f6feb&label=Total%20Repositories" alt="total repos" />
+</p>
 
 ---
 
